@@ -3,4 +3,4 @@ This is the font primary used in The Legend of Zelda: Breath of the Wild. Extrac
 
 Currently, the font is quite incomplete due to subset embedding (only storing used characters in the PDF document).
 
-![image](https://user-images.githubusercontent.com/5692900/226905626-05a9ab43-52ba-4bfc-9b0e-b197ffea3414.png)
+![image](https://user-images.githubusercontent.com/5692900/227105733-4b29a3ba-5039-441d-aa27-9e092a1aa9a8.png)
